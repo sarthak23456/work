@@ -1,0 +1,32 @@
+/* About Page CSS (about.css) */
+.container {
+    background-color: #e8f0f7;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto 20px;
+    size: 20px;
+}
